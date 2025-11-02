@@ -11,7 +11,7 @@ It includes a "Hello, World!" program written in **Java**.
 
 Make sure you have the following software installed:
 
-- Java Development Kit (JDK) 17 or later  
+- Java Development Kit (JDK) 17 or later,  
 - Git (to clone the repository)
 
 To check if Java is installed, run:
