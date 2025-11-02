@@ -7,7 +7,7 @@ It includes a "Hello, World!" program written in **Java**.
 
 ---
 
-## 🧰 Prerequisites
+##  Prerequisites
 
 Make sure you have the following software installed:
 
